@@ -1,1 +1,3 @@
-# gitlab_pipeline
+# osam
+
+Outsourcing account management
